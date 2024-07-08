@@ -1,0 +1,15 @@
+4 4 2 4
+8519684
+8650758
+655361
+25034752
+-1
+0
+8
+6
+SubAdr D 1
+Glocal D 2
+0 lw neg1
+1 lw Glocal
+1 .fill subOne
+3 .fill Glocal

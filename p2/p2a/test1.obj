@@ -1,0 +1,19 @@
+6 0 6 6
+8519680
+8585216
+8650752
+12648448
+12910592
+12976128
+Apple U 0
+Banana U 0
+Cat U 0
+Dad U 0
+Ear U 0
+Fruit U 0
+0 lw Apple
+1 lw Banana
+2 lw Cat
+3 sw Dad
+4 sw Ear
+5 sw Fruit
